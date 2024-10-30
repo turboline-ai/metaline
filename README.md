@@ -6,7 +6,6 @@
 
 - **Retrieve Metadata**: Get essential details about each table column, such as names, data types, nullability, and default values.
 - **Multi-Database Support**: Compatible with MySQL, PostgreSQL, and MSSQL.
-- **User-Friendly API**: A straightforward function for quick and easy integration into any Python project.
 
 ## Installation
 
